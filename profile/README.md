@@ -1,6 +1,10 @@
-# PerlOps
-
-### Automate. Secure. Modernize.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/perlops/.github/main/profile/assets/perlops-horizontal-dark-3200.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/perlops/.github/main/profile/assets/perlops-horizontal-light-3200.png">
+    <img alt="PerlOps — Automate. Secure. Modernize." src="https://raw.githubusercontent.com/perlops/.github/main/profile/assets/perlops-horizontal-light-3200.png" width="650">
+  </picture>
+</p>
 
 **Modern Perl. Enterprise Engineering. Agentic AI.**
 
